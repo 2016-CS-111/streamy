@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "My Stream 1",
+      "description": "Good Stream it is!",
+      "id": 1
+    },
+    {
+      "title": "My Stream 2 ",
+      "description": "Also a nice one",
+      "id": 2
+    },
+    {
+      "title": "Signed in Stream",
+      "description": "This is created by me! (Third Edit)",
+      "id": 3
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "We were doing Intentional Navigation back then.",
+      "userId": "101082526033784265922",
+      "id": 4
+    },
+    {
+      "title": "Me Streamy Create Components Reusabilty",
+      "description": "bla bla bla (Second Edit)",
+      "userId": "101082526033784265922",
+      "id": 5
+    },
+    {
+      "title": "Implementation Streams",
+      "description": "Now we move to implementing the RTMP server",
+      "userId": "101082526033784265922",
+      "id": 6
+    }
+  ]
+}
